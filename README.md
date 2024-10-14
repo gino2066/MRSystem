@@ -76,6 +76,7 @@ graph TD
 ```
 
 ## 使用案例圖
+![409EFE85-0F2F-434D-A89C-EC004912BEF4](https://github.com/user-attachments/assets/f886fadb-85c0-4199-a7fb-40ff654294e8)
 
 
 # 使用案例 1：用戶註冊與登入
