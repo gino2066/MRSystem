@@ -116,8 +116,23 @@ graph TD
 ### 主要流程：
 1. 作業人員放置料件至特定位置。
 2. 系統檢查料件的放置位置是否正確。
+
 3. 若正確，系統無提示並繼續。
 4. 若錯誤，系統顯示警告頁面，提醒作業人員重新確認放置位置。
 
 ### 例外情況：
 - 如果系統無法自動檢測放置位置，系統會提示作業人員進行人工檢查。
+
+### 分鏡板：
+![圖片1](https://github.com/user-attachments/assets/b24b8ce5-7e61-4109-af29-c317a1b46637)![圖片2](https://github.com/user-attachments/assets/81247e9c-a983-4ea7-b59f-5c8e399930cf)
+![圖片3](https://github.com/user-attachments/assets/3bbfe719-e54e-426c-99ca-2815b3009f04)![圖片4](https://github.com/user-attachments/assets/84333f0d-8518-40b9-b619-0a7f95794348)
+![圖片5](https://github.com/user-attachments/assets/a7f66cab-1b4c-4de0-bb6a-045f70db3e56)![Uploading 圖片6.png…]()![圖片7](https://github.com/user-attachments/assets/1120ff5b-227b-43f2-a7ba-180ea2ebd99d)
+說明：
+1.系統提供安全的登錄界面，用戶需輸入帳號和密碼才能訪問系統。
+2.主頁面展示了各種料件的庫存水平，並以顏色顏色標籤（紅色、黃色、綠色）區分狀態（如充足、高庫存、不足）。
+3.提供快速查看庫存狀況的功能，幫助管理者及時調整庫存策略。
+4.顯示撿料單號、進料時間、撿料人員、部門、項目數量和狀態。
+5.列出CPU的進貨記錄，包含數量、日期、單價和總價。
+6.操作完成後，系統會自動返回主頁。
+
+
