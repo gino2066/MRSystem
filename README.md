@@ -126,7 +126,8 @@ graph TD
 ### 分鏡板：
 ![圖片1](https://github.com/user-attachments/assets/b24b8ce5-7e61-4109-af29-c317a1b46637)![圖片2](https://github.com/user-attachments/assets/81247e9c-a983-4ea7-b59f-5c8e399930cf)
 ![圖片3](https://github.com/user-attachments/assets/3bbfe719-e54e-426c-99ca-2815b3009f04)![圖片4](https://github.com/user-attachments/assets/84333f0d-8518-40b9-b619-0a7f95794348)
-![圖片5](https://github.com/user-attachments/assets/a7f66cab-1b4c-4de0-bb6a-045f70db3e56)![Uploading 圖片6.png…]()![圖片7](https://github.com/user-attachments/assets/1120ff5b-227b-43f2-a7ba-180ea2ebd99d)
+![圖片5](https://github.com/user-attachments/assets/a7f66cab-1b4c-4de0-bb6a-045f70db3e56)!![圖片6](https://github.com/user-attachments/assets/8bd7ba7f-48b6-4d0b-bb46-af82f964dabe)
+![圖片7](https://github.com/user-attachments/assets/1120ff5b-227b-43f2-a7ba-180ea2ebd99d)
 ### 說明：
 1.系統提供安全的登錄界面，用戶需輸入帳號和密碼才能訪問系統。
 2.主頁面展示了各種料件的庫存水平，並以顏色顏色標籤（紅色、黃色、綠色）區分狀態（如充足、高庫存、不足）。
